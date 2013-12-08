@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_search">Search</string>
+    <string name="action_location_found">Locations Found</string>
+    <string name="action_refresh">Action Refresh</string>
+    <string name="action_help">Help</string>
+    <string name="action_check_updates">Updates</string>
+    <string name="app_name">Menu Bar</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
