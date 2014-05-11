@@ -24,7 +24,7 @@
         </activity>
         <!-- Location found activity -->
         <activity
-            android:name="info.androidhive.actionbar.LocationFound"
+            android:name="com.rudyjessop.menubar.LocationFound"
             android:label="@string/action_location_found"
             android:parentActivityName="info.androidhive.actionbar.MainActivity" >
              <!-- To support below API Level 14 -->
