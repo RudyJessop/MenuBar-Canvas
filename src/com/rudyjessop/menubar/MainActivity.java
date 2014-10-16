@@ -10,6 +10,7 @@ import android.view.MenuItem;
 
 public class MainActivity extends Activity {
 	
+	//#2 POST
 	/**
 	 * On Selecting action bar icons
 	 **/
@@ -45,6 +46,7 @@ public class MainActivity extends Activity {
 		startActivity(i);
 	}
 
+		// #1 POST
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
